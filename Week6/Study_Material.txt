@@ -1,3 +1,4 @@
+"Questions to ask Before EDA"
 1: How big is the data?
 2: How does the data look like?
 3: What is the data type of columns?
